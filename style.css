@@ -1,3 +1,6 @@
+div{
+  margin-left:0;
+}
 table{
   width:auto;
   border: 1px solid blue;
@@ -13,13 +16,13 @@ tr, td {
   width:50px;
   border:1px solid white;
   height: 50px;
-  background-color: blue;
+  background-color: #46abe7;
 }
 
 #addrow{
   width:50px;
   height:50px;
-  background-color: #ff9900;
+  background-color: #f3a600;
   color: white;
   margin-left: 80px;
   float: left;
@@ -29,7 +32,7 @@ tr, td {
 #addcol{
   width:50px;
   height:50px;
-  background-color: #ff9900;
+  background-color: #f3a600;
   color: white;
   margin-top: 80px;
 
@@ -37,7 +40,7 @@ tr, td {
 #delrow{
   width:50px;
   height:50px;
-  background-color: #b30000;
+  background-color: #b40000;
   color: white;
   position: absolute;
   top:90px;
@@ -48,7 +51,7 @@ tr, td {
 #delcol{
   width: 50px;
   height: 50px;
-  background-color: #b30000;
+  background-color: #b40000;
   color: white;
   position: absolute;
   top:37px;
