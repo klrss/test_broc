@@ -3,7 +3,7 @@ div{
 }
 table{
   width:auto;
-  border: 1px blue;
+  border: 1px ridge blue;
   margin-left: 80px;
   margin-top: 80px;
   padding: 0;
@@ -14,7 +14,7 @@ table{
 
 tr, td {
   width:50px;
-  border:1px white;
+  border:1px ridge white;
   height: 50px;
   background-color: #46abe7;
 }
