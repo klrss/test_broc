@@ -3,7 +3,8 @@ div{
 }
 table{
   width:auto;
-  border: 1px ridge blue;
+  border-width: 1px;
+  border-color: #46abe7;
   margin-left: 80px;
   margin-top: 80px;
   padding: 0;
@@ -14,7 +15,8 @@ table{
 
 tr, td {
   width:50px;
-  border:1px ridge white;
+  border-width:1px;
+  border-color: white;
   height: 50px;
   background-color: #46abe7;
 }
