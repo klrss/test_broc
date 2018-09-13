@@ -3,8 +3,7 @@ div{
 }
 table{
   width:auto;
-  border-width: 1px;
-  border-color: #46abe7;
+  border: 1px solid #46abe7 ;
   margin-left: 80px;
   margin-top: 80px;
   padding: 0;
